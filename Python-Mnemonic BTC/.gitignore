@@ -1,0 +1,5 @@
+*.pyc
+build/
+dist/
+mnemonic.egg-info/
+.tox/

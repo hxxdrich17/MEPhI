@@ -1,0 +1,10 @@
+{
+  "test": {
+    "angles": "60 -120 60",
+    "background": "#000000",
+    "deep": 3,
+    "foreground": "#ffffff",
+    "rainbow": false,
+    "width": 3
+  }
+}
